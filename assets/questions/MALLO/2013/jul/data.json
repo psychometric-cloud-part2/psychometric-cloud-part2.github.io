@@ -5,7 +5,7 @@
   "questions": {
     "math1": [
       "1:alg,avg:3",
-      "2:alg,prob:4",
+      "2:prb,quant:4",
       "3:alg,percent:2",
       "4:geo:3",
       "5:alg,newOp:2",
@@ -27,7 +27,7 @@
     ],
     "math2": [
       "1:alg:2",
-      "2:alg,prob:4",
+      "2:prb,quant:4",
       "3:geo:1",
       "4:geo:1",
       "5:chart:3",
@@ -37,13 +37,13 @@
       "9:chart:3",
       "10:geo:4",
       "11:alg,abs:1",
-      "12:alg,prob:3",
-      "13:alg,prob:2",
-      "14:alg,root:4",
+      "12:prb,quant:3",
+      "13:prb,quant:2",
+      "14:alg,exponent:4",
       "15:geo:2",
       "16:prb,comb:3",
       "17:alg,percent:4",
-      "18:alg,prob:1",
+      "18:prb,quant:1",
       "19:prb,supply:3",
       "20:geo:1"
     ],
