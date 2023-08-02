@@ -106,12 +106,12 @@
       "22:logic:3",
       "23:logic:4",
       "24:logic:3",
-      "25:reading,text1:1",
-      "26:reading,text1:4",
-      "27:reading,text1:2",
-      "28:reading,text2:3",
-      "29:reading,text2:4",
-      "30:reading,text2:2"
+      "25:reading:1",
+      "26:reading:4",
+      "27:reading:2",
+      "28:reading:3",
+      "29:reading:4",
+      "30:reading:2"
     ],
     "EN1": [
       "1:complete:1",
