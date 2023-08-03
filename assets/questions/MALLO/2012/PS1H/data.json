@@ -16,7 +16,7 @@
       "10:alg,avg:1",
       "11:alg,expression:4",
       "12:geo:4",
-      "13:num:1",
+      "13:alg,num:1",
       "14:geo:1",
       "15:alg,num,isCorrect:3",
       "16:alg,abs,isCorrect:2",
@@ -43,7 +43,7 @@
       "15:alg,expression:3",
       "16:geo:3",
       "17:alg,inequality:4",
-      "18:prb,wit:2",
+      "18:alg,quant:2",
       "19:alg,letters:4",
       "20:alg,percent:4"
     ],
