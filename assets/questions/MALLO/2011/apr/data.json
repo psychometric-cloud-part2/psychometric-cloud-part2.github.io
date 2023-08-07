@@ -23,12 +23,12 @@
       "17:alg,exponent:4",
       "18:alg,avg,isCorrect:4",
       "19:prb,wit:2",
-      "20:complete:1",
-      "21:complete:2",
-      "22:complete:1",
-      "23:complete:4",
-      "24:complete:3",
-      "25:complete:4"
+      "20:compare:1",
+      "21:compare:2",
+      "22:compare:1",
+      "23:compare:4",
+      "24:compare:3",
+      "25:compare:4"
     ],
     "math2": [
       "1:geo:3",
