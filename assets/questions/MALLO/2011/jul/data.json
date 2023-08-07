@@ -31,7 +31,7 @@
       "25:prb,probability:3"
     ],
     "math2": [
-      "1:prb,wit,mimmax:2",
+      "1:prb,wit,minmax:2",
       "2:alg,seqNum:2",
       "3:prb,wit:1",
       "4:geo:4",

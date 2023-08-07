@@ -31,12 +31,12 @@
       "25:alg,num:3"
     ],
     "math2": [
-      "1:complete:3",
-      "2:complete:2",
-      "3:complete:3",
-      "4:complete:4",
-      "5:complete:2",
-      "6:complete:2",
+      "1:compare:3",
+      "2:compare:2",
+      "3:compare:3",
+      "4:compare:4",
+      "5:compare:2",
+      "6:compare:2",
       "7:alg,letters:4",
       "8:prb,supply:3",
       "9:geo:3",
