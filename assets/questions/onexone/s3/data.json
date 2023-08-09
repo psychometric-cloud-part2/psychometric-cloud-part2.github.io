@@ -1,6 +1,7 @@
 {
   "publisher": "onexone",
   "year": "s3",
+  "season": "",
   "questions": {
     "math1": [
       "1:alg,num,prime:3",
