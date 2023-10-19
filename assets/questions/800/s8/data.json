@@ -1,0 +1,51 @@
+{
+  "publisher": "800",
+  "year": "8",
+  "season": "",
+  "questions": {
+    "math1": [
+      "1:prb:3",
+      "2:alg:2",
+      "3:alg:2",
+      "4:geo:4",
+      "5:alg:2",
+      "6:geo:1",
+      "7:prb:2",
+      "8:chart:3",
+      "9:chart:4",
+      "10:chart:1",
+      "11:chart:3",
+      "12:chart:4",
+      "13:geo:4",
+      "14:alg:4",
+      "15:prb:2",
+      "16:geo:3",
+      "17:alg:4",
+      "18:alg:2",
+      "19:alg:4",
+      "20:prb:2"
+    ],
+    "math2": [
+      "1:alg,inequality:2",
+      "2:alg,eq:3",
+      "3:alg,eq:1",
+      "4:alg,abs:4",
+      "5:alg,isCorrect:1",
+      "6:alg,expression:2",
+      "7:alg,expression:1",
+      "8:alg,dividers:2",
+      "9:alg,expression:3",
+      "10:alg,quant:2",
+      "11:alg,exponent:3",
+      "12:alg,expression:3",
+      "13:alg,exponent:4",
+      "14:prb,wit,minmax:1",
+      "15:alg,quant:4",
+      "16:prb,expression:2"
+    ],
+    "HE1": [],
+    "HE2": [],
+    "EN1": [],
+    "EN2": []
+  }
+}
