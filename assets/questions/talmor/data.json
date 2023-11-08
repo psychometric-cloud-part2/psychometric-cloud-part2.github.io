@@ -1,0 +1,37 @@
+{
+  "publisher": "talmor",
+  "year": "marathon",
+  "season": "",
+  "questions": {
+    "math1": [
+      "5:alg:1",
+      "6:alg:4",
+      "7:alg:3",
+      "8:alg:1",
+      "9:alg:3",
+      "10:alg:3",
+      "11:alg:2",
+      "12:alg:3",
+      "13:alg:3",
+      "14:alg:2",
+      "15:alg:3"
+    ],
+    "math2": [
+      "5:alg:1",
+      "6:alg:4",
+      "7:alg:2",
+      "8:alg:2",
+      "9:alg:1",
+      "10:alg:2",
+      "11:alg:2",
+      "12:alg:1",
+      "13:alg:2",
+      "14:alg:1",
+      "15:alg:4"
+    ],
+    "HE1": [],
+    "HE2": [],
+    "EN1": [],
+    "EN2": []
+  }
+}
