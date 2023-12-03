@@ -1,0 +1,129 @@
+{
+  "publisher": "talmor",
+  "year": "charts",
+  "season": "",
+  "questions": {
+    "math1": [
+      "1:chart:2",
+      "2:chart:3",
+      "3:chart:1",
+      "4:chart:3",
+    ],
+    "math2": [
+      "1:chart:3",
+      "2:chart:3",
+      "3:chart:1",
+      "4:chart:3",
+      "5:chart:4",
+    ],
+    "math3": [
+      "1:chart:4",
+      "2:chart:2",
+      "3:chart:4",
+      "4:chart:3"
+    ],
+    "math4": [
+      "1:chart:4",
+      "2:chart:2",
+      "3:chart:2",
+      "4:chart:1",
+      "5:chart:4",
+    ],
+    "math5": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:3",
+      "4:chart:4"
+    ],
+    "math6": [
+      "1:chart:1",
+      "2:chart:4",
+      "3:chart:3",
+      "4:chart:4",
+      "5:chart:3"
+    ],
+    "math7": [
+      "1:chart:1",
+      "2:chart:2",
+      "3:chart:2",
+      "4:chart:2"
+    ],
+    "math8": [
+      "1:chart:4",
+      "2:chart:3",
+      "3:chart:3",
+      "4:chart:3",
+      "5:chart:3"
+    ],
+    "math9": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:2",
+      "4:chart:2",
+      "5:chart:3"
+    ],
+    "math10": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:2",
+      "4:chart:2",
+      "5:chart:4"
+    ],
+    "math11": [
+      "1:chart:1",
+      "2:chart:3",
+      "3:chart:2",
+      "4:chart:3",
+      "5:chart:4"
+    ],
+    "math12": [
+      "1:chart:4",
+      "2:chart:4",
+      "3:chart:4",
+      "4:chart:2",
+      "5:chart:3"
+    ],
+    "math13": [
+      "1:chart:4",
+      "2:chart:2",
+      "3:chart:3",
+      "4:chart:3",
+    ],
+    "math14": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:2",
+      "4:chart:4",
+    ],
+    "math15": [
+      "1:chart:4",
+      "2:chart:2",
+      "3:chart:4",
+      "4:chart:3",
+      "5:chart:2"
+    ],
+    "math16": [
+      "1:chart:2",
+      "2:chart:3",
+      "3:chart:2",
+      "4:chart:4",
+      "5:chart:3"
+    ],
+    "math17": [
+      "1:chart:3",
+      "2:chart:2",
+      "3:chart:3",
+      "4:chart:1",
+    ],
+    "math18": [
+      "1:chart:2",
+      "2:chart:2",
+      "3:chart:3",
+      "4:chart:1",
+    ],
+    "HE1": [],
+    "HE2": [],
+    "EN1": [],
+    "EN2": []
+  }
+}
