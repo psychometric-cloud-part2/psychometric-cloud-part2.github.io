@@ -121,6 +121,106 @@
       "3:chart:3",
       "4:chart:1",
     ],
+    "math19": [
+      "1:chart:3",
+      "2:chart:1",
+      "3:chart:1",
+      "4:chart:2",
+      "5:chart:3"
+    ],
+    "math20": [
+      "1:chart:2",
+      "2:chart:3",
+      "3:chart:4",
+      "4:chart:2",
+    ],
+    "math21": [
+      "1:chart:2",
+      "2:chart:2",
+      "3:chart:3",
+      "4:chart:4",
+    ],
+    "math22": [
+      "1:chart:4",
+      "2:chart:2",
+      "3:chart:3",
+      "4:chart:2",
+      "5:chart:3"
+    ],
+    "math23": [
+      "1:chart:3",
+      "2:chart:3",
+      "3:chart:1",
+      "4:chart:4"
+    ],
+    "math24": [
+      "1:chart:2",
+      "2:chart:2",
+      "3:chart:4",
+      "4:chart:3"
+    ],
+    "math25": [
+      "1:chart:1",
+      "2:chart:2",
+      "3:chart:3",
+      "4:chart:1"
+    ],
+    "math26": [
+      "1:chart:3",
+      "2:chart:1",
+      "3:chart:4",
+      "4:chart:4"
+    ],
+    "math27": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:2",
+      "4:chart:2"
+    ],
+    "math28": [
+      "1:chart:2",
+      "2:chart:2",
+      "3:chart:4",
+      "4:chart:4"
+    ],
+    "math29": [
+      "1:chart:2",
+      "2:chart:2",
+      "3:chart:4",
+      "4:chart:4"
+    ],
+    "math30": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:3",
+      "4:chart:1"
+    ],
+    "math31": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:1",
+      "4:chart:2",
+      "5:chart:2"
+    ],
+    "math32": [
+      "1:chart:3",
+      "2:chart:4",
+      "3:chart:2",
+      "4:chart:2",
+      "5:chart:4"
+    ],
+    "math33": [
+      "1:chart:3",
+      "2:chart:2",
+      "3:chart:2",
+      "4:chart:1"
+    ],
+    "math34": [
+      "1:chart:1",
+      "2:chart:4",
+      "3:chart:2",
+      "4:chart:2"
+    ],
     "HE1": [],
     "HE2": [],
     "EN1": [],
