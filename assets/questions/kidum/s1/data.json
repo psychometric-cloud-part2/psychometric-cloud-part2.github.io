@@ -34,6 +34,17 @@
       "16:alg:2",
       "17:alg:4",
       "18:alg:1"
-    ]
+    ],
+    "he1": [
+      "1:analogy:1",
+      "2:analogy:1",
+      "3:analogy:1",
+      "4:analogy:3",
+      "5:analogy:2",
+      "6:analogy:4",
+      "7:deduce:4",
+      "8:deduce:3",
+      "9:deduce:4"
+    ],
   }
 }
