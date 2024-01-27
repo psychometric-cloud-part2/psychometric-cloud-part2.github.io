@@ -8,24 +8,49 @@
       "2:deduce:2",
       "3:deduce:1"
     ],
+    "HE2": [
+      "1:deduce:2",
+      "2:deduce:4",
+      "3:deduce:3"
+    ],
     "HE3": [
       "1:deduce:4",
       "2:deduce:2",
       "3:deduce:3"
+    ],
+    "HE4": [
+      "1:deduce:1",
+      "2:deduce:3",
+      "3:deduce:2"
     ],
     "HE5": [
       "1:deduce:3",
       "2:deduce:2",
       "3:deduce:4"
     ],
+    "HE6": [
+      "1:deduce:4",
+      "2:deduce:3",
+      "3:deduce:3"
+    ],
     "HE7": [
       "1:deduce:2",
       "2:deduce:1",
       "3:deduce:3"
     ],
+    "HE8": [
+      "1:deduce:2",
+      "2:deduce:3",
+      "3:deduce:2"
+    ],
     "HE9": [
       "1:deduce:3",
       "2:deduce:1",
+      "3:deduce:4"
+    ],
+    "HE10": [
+      "1:deduce:2",
+      "2:deduce:4",
       "3:deduce:4"
     ],
     "HE11": [
@@ -33,43 +58,88 @@
       "2:deduce:3",
       "3:deduce:4"
     ],
+    "HE12": [
+      "1:deduce:2",
+      "2:deduce:3",
+      "3:deduce:1"
+    ],
     "HE13": [
       "1:deduce:4",
       "2:deduce:3",
       "3:deduce:1"
+    ],
+    "HE14": [
+      "1:deduce:1",
+      "2:deduce:2",
+      "3:deduce:4"
     ],
     "HE15": [
       "1:deduce:1",
       "2:deduce:3",
       "3:deduce:2"
     ],
+    "HE16": [
+      "1:deduce:3",
+      "2:deduce:1",
+      "3:deduce:4"
+    ],
     "HE17": [
       "1:deduce:4",
       "2:deduce:2",
       "3:deduce:2"
+    ],
+    "HE18": [
+      "1:deduce:4",
+      "2:deduce:2",
+      "3:deduce:1"
     ],
     "HE19": [
       "1:deduce:1",
       "2:deduce:3",
       "3:deduce:2"
     ],
+    "HE20": [
+      "1:deduce:2",
+      "2:deduce:3",
+      "3:deduce:4"
+    ],
     "HE21": [
       "1:deduce:3",
       "2:deduce:2",
       "3:deduce:3"
+    ],
+    "HE22": [
+      "1:deduce:1",
+      "2:deduce:1",
+      "3:deduce:4"
     ],
     "HE23": [
       "1:deduce:3",
       "2:deduce:2",
       "3:deduce:1"
     ],
+    "HE24": [
+      "1:deduce:1",
+      "2:deduce:3",
+      "3:deduce:2"
+    ],
     "HE25": [
       "1:deduce:3",
       "2:deduce:2",
       "3:deduce:3"
     ],
+    "HE26": [
+      "1:deduce:2",
+      "2:deduce:4",
+      "3:deduce:4"
+    ],
     "HE27": [
       "1:deduce:3",
+      "2:deduce:4",
+      "3:deduce:2"
+    ],
+    "HE28": [
+      "1:deduce:2",
       "2:deduce:4",
       "3:deduce:2"
     ],
@@ -78,15 +148,30 @@
       "2:deduce:3",
       "3:deduce:4"
     ],
+    "HE30": [
+      "1:deduce:2",
+      "2:deduce:4",
+      "3:deduce:1"
+    ],
     "HE31": [
       "1:deduce:1",
       "2:deduce:4",
       "3:deduce:3"
     ],
+    "HE32": [
+      "1:deduce:3",
+      "2:deduce:1",
+      "3:deduce:2"
+    ],
     "HE33": [
       "1:deduce:3",
       "2:deduce:3",
       "3:deduce:4"
+    ],
+    "HE34": [
+      "1:deduce:3",
+      "2:deduce:4",
+      "3:deduce:2"
     ],
     "HE35": [
       "1:deduce:1",
