@@ -1,0 +1,29 @@
+{
+  "publisher": "psycho",
+  "year": "p3",
+  "season": "",
+  "questions": {
+    "HE1": [
+      "1:deduce:1",
+      "2:deduce:2",
+      "3:deduce:3",
+      "4:deduce:4",
+      "5:deduce:4",
+      "6:deduce:1",
+      "7:deduce:4",
+      "8:deduce:1",
+      "9:deduce:4",
+      "10:deduce:1",
+      "11:deduce:1",
+      "12:deduce:4",
+      "13:deduce:3",
+      "14:deduce:3",
+      "15:deduce:3",
+      "16:deduce:2",
+      "17:deduce:2",
+      "18:deduce:1",
+      "19:deduce:3",
+      "20:deduce:4"
+    ]
+  }
+}
