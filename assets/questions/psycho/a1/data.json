@@ -1,0 +1,407 @@
+{
+  "publisher": "psycho",
+  "year": "analogy1",
+  "season": "",
+  "questions": {
+    "analogy1": [
+      "1:analogy:3",
+      "2:analogy:3",
+      "3:analogy:3",
+      "4:analogy:2",
+      "5:analogy:1",
+      "6:analogy:1"
+    ],
+    "analogy2": [
+      "1:analogy:4",
+      "2:analogy:2",
+      "3:analogy:2",
+      "4:analogy:1",
+      "5:analogy:3",
+      "6:analogy:1"
+    ],
+    "analogy3": [
+      "1:analogy:3",
+      "2:analogy:4",
+      "3:analogy:2",
+      "4:analogy:1",
+      "5:analogy:3",
+      "6:analogy:3"
+    ],
+    "analogy4": [
+      "1:analogy:4",
+      "2:analogy:4",
+      "3:analogy:1",
+      "4:analogy:2",
+      "5:analogy:4",
+      "6:analogy:2"
+    ],
+    "analogy5": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:1",
+      "4:analogy:1",
+      "5:analogy:1",
+      "6:analogy:2"
+    ],
+    "analogy6": [
+      "1:analogy:1",
+      "2:analogy:1",
+      "3:analogy:2",
+      "4:analogy:1",
+      "5:analogy:2",
+      "6:analogy:4"
+    ],
+    "analogy7": [
+      "1:analogy:2",
+      "2:analogy:1",
+      "3:analogy:3",
+      "4:analogy:2",
+      "5:analogy:2",
+      "6:analogy:4"
+    ],
+    "analogy8": [
+      "1:analogy:1",
+      "2:analogy:1",
+      "3:analogy:3",
+      "4:analogy:1",
+      "5:analogy:3",
+      "6:analogy:2"
+    ],
+    "analogy9": [
+      "1:analogy:4",
+      "2:analogy:4",
+      "3:analogy:2",
+      "4:analogy:4",
+      "5:analogy:1",
+      "6:analogy:1"
+    ],
+    "analogy10": [
+      "1:analogy:2",
+      "2:analogy:3",
+      "3:analogy:3",
+      "4:analogy:3",
+      "5:analogy:2",
+      "6:analogy:2"
+    ],
+    "analogy11": [
+      "1:analogy:2",
+      "2:analogy:2",
+      "3:analogy:1",
+      "4:analogy:2",
+      "5:analogy:4",
+      "6:analogy:3"
+    ],
+    "analogy12": [
+      "1:analogy:4",
+      "2:analogy:4",
+      "3:analogy:3",
+      "4:analogy:4",
+      "5:analogy:3",
+      "6:analogy:2"
+    ],
+    "analogy13": [
+      "1:analogy:2",
+      "2:analogy:1",
+      "3:analogy:1",
+      "4:analogy:4",
+      "5:analogy:4",
+      "6:analogy:3"
+    ],
+    "analogy14": [
+      "1:analogy:1",
+      "2:analogy:2",
+      "3:analogy:2",
+      "4:analogy:2",
+      "5:analogy:4",
+      "6:analogy:1"
+    ],
+    "analogy15": [
+      "1:analogy:2",
+      "2:analogy:2",
+      "3:analogy:4",
+      "4:analogy:1",
+      "5:analogy:2",
+      "6:analogy:4"
+    ],
+    "analogy16": [
+      "1:analogy:4",
+      "2:analogy:2",
+      "3:analogy:3",
+      "4:analogy:3",
+      "5:analogy:1",
+      "6:analogy:3"
+    ],
+    "analogy17": [
+      "1:analogy:1",
+      "2:analogy:4",
+      "3:analogy:3",
+      "4:analogy:2",
+      "5:analogy:2",
+      "6:analogy:2"
+    ],
+    "analogy18": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:1",
+      "4:analogy:4",
+      "5:analogy:2",
+      "6:analogy:1"
+    ],
+    "analogy19": [
+      "1:analogy:1",
+      "2:analogy:2",
+      "3:analogy:3",
+      "4:analogy:3",
+      "5:analogy:4",
+      "6:analogy:3"
+    ],
+    "analogy20": [
+      "1:analogy:1",
+      "2:analogy:1",
+      "3:analogy:3",
+      "4:analogy:1",
+      "5:analogy:1",
+      "6:analogy:4"
+    ],
+    "analogy21": [
+      "1:analogy:4",
+      "2:analogy:3",
+      "3:analogy:3",
+      "4:analogy:3",
+      "5:analogy:4",
+      "6:analogy:2"
+    ],
+    "analogy22": [
+      "1:analogy:2",
+      "2:analogy:4",
+      "3:analogy:4",
+      "4:analogy:4",
+      "5:analogy:4",
+      "6:analogy:4"
+    ],
+    "analogy23": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:2",
+      "4:analogy:3",
+      "5:analogy:1",
+      "6:analogy:3"
+    ],
+    "analogy24": [
+      "1:analogy:3",
+      "2:analogy:4",
+      "3:analogy:1",
+      "4:analogy:2",
+      "5:analogy:4",
+      "6:analogy:3"
+    ],
+    "analogy25": [
+      "1:analogy:1",
+      "2:analogy:2",
+      "3:analogy:2",
+      "4:analogy:2",
+      "5:analogy:3",
+      "6:analogy:4"
+    ],
+    "analogy26": [
+      "1:analogy:2",
+      "2:analogy:3",
+      "3:analogy:4",
+      "4:analogy:1",
+      "5:analogy:1",
+      "6:analogy:1"
+    ],
+    "analogy27": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:4",
+      "4:analogy:4",
+      "5:analogy:2",
+      "6:analogy:1"
+    ],
+    "analogy28": [
+      "1:analogy:3",
+      "2:analogy:1",
+      "3:analogy:4",
+      "4:analogy:3",
+      "5:analogy:4",
+      "6:analogy:4"
+    ],
+    "analogy29": [
+      "1:analogy:4",
+      "2:analogy:2",
+      "3:analogy:2",
+      "4:analogy:1",
+      "5:analogy:2",
+      "6:analogy:4"
+    ],
+    "analogy30": [
+      "1:analogy:1",
+      "2:analogy:4",
+      "3:analogy:2",
+      "4:analogy:4",
+      "5:analogy:1",
+      "6:analogy:4"
+    ],
+    "analogy31": [
+      "1:analogy:3",
+      "2:analogy:4",
+      "3:analogy:3",
+      "4:analogy:2",
+      "5:analogy:2",
+      "6:analogy:1"
+    ],
+    "analogy32": [
+      "1:analogy:2",
+      "2:analogy:4",
+      "3:analogy:3",
+      "4:analogy:4",
+      "5:analogy:2",
+      "6:analogy:3"
+    ],
+    "analogy33": [
+      "1:analogy:4",
+      "2:analogy:2",
+      "3:analogy:3",
+      "4:analogy:1",
+      "5:analogy:4",
+      "6:analogy:3"
+    ],
+    "analogy34": [
+      "1:analogy:2",
+      "2:analogy:3",
+      "3:analogy:4",
+      "4:analogy:3",
+      "5:analogy:1",
+      "6:analogy:3"
+    ],
+    "analogy35": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:2",
+      "4:analogy:3",
+      "5:analogy:3",
+      "6:analogy:2"
+    ],
+    "analogy36": [
+      "1:analogy:3",
+      "2:analogy:1",
+      "3:analogy:4",
+      "4:analogy:2",
+      "5:analogy:3",
+      "6:analogy:1"
+    ],
+    "analogy37": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:1",
+      "4:analogy:2",
+      "5:analogy:2",
+      "6:analogy:2"
+    ],
+    "analogy38": [
+      "1:analogy:2",
+      "2:analogy:4",
+      "3:analogy:4",
+      "4:analogy:3",
+      "5:analogy:4",
+      "6:analogy:4"
+    ],
+    "analogy39": [
+      "1:analogy:2",
+      "2:analogy:1",
+      "3:analogy:4",
+      "4:analogy:2",
+      "5:analogy:1",
+      "6:analogy:3"
+    ],
+    "analogy40": [
+      "1:analogy:1",
+      "2:analogy:2",
+      "3:analogy:1",
+      "4:analogy:3",
+      "5:analogy:4",
+      "6:analogy:4"
+    ],
+    "analogy41": [
+      "1:analogy:3",
+      "2:analogy:4",
+      "3:analogy:1",
+      "4:analogy:2",
+      "5:analogy:1",
+      "6:analogy:4"
+    ],
+    "analogy42": [
+      "1:analogy:1",
+      "2:analogy:1",
+      "3:analogy:2",
+      "4:analogy:2",
+      "5:analogy:3",
+      "6:analogy:4"
+    ],
+    "analogy43": [
+      "1:analogy:2",
+      "2:analogy:2",
+      "3:analogy:3",
+      "4:analogy:2",
+      "5:analogy:4",
+      "6:analogy:3"
+    ],
+    "analogy44": [
+      "1:analogy:3",
+      "2:analogy:3",
+      "3:analogy:1",
+      "4:analogy:4",
+      "5:analogy:4",
+      "6:analogy:4"
+    ],
+    "analogy45": [
+      "1:analogy:1",
+      "2:analogy:1",
+      "3:analogy:2",
+      "4:analogy:2",
+      "5:analogy:2",
+      "6:analogy:3"
+    ],
+    "analogy46": [
+      "1:analogy:2",
+      "2:analogy:1",
+      "3:analogy:1",
+      "4:analogy:1",
+      "5:analogy:3",
+      "6:analogy:4"
+    ],
+    "analogy47": [
+      "1:analogy:2",
+      "2:analogy:2",
+      "3:analogy:2",
+      "4:analogy:4",
+      "5:analogy:3",
+      "6:analogy:4"
+    ],
+    "analogy48": [
+      "1:analogy:1",
+      "2:analogy:2",
+      "3:analogy:2",
+      "4:analogy:4",
+      "5:analogy:4",
+      "6:analogy:4"
+    ],
+    "analogy49": [
+      "1:analogy:1",
+      "2:analogy:3",
+      "3:analogy:1",
+      "4:analogy:4",
+      "5:analogy:1",
+      "6:analogy:2"
+    ],
+    "analogy50": [
+      "1:analogy:2",
+      "2:analogy:1",
+      "3:analogy:3",
+      "4:analogy:4",
+      "5:analogy:2",
+      "6:analogy:2"
+    ]
+  }
+}
