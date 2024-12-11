@@ -5,7 +5,8 @@
   "questions": {
     "math1": [
       "1:alg:2",
-      "2:geo:4"
+      "2:geo:4",
+      "3:alg:1"
     ]
   }
 }
