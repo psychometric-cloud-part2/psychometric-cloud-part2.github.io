@@ -1,17 +1,9 @@
 {
   "publisher": "psycho",
-  "year": "analogy1",
+  "year": "a1",
   "season": "",
   "questions": {
-    "analogy1": [
-      "1:analogy:3",
-      "2:analogy:3",
-      "3:analogy:3",
-      "4:analogy:2",
-      "5:analogy:1",
-      "6:analogy:1"
-    ],
-    "analogy2": [
+    "HE2": [
       "1:analogy:4",
       "2:analogy:2",
       "3:analogy:2",
@@ -19,7 +11,7 @@
       "5:analogy:3",
       "6:analogy:1"
     ],
-    "analogy3": [
+    "HE3": [
       "1:analogy:3",
       "2:analogy:4",
       "3:analogy:2",
@@ -27,7 +19,7 @@
       "5:analogy:3",
       "6:analogy:3"
     ],
-    "analogy4": [
+    "HE4": [
       "1:analogy:4",
       "2:analogy:4",
       "3:analogy:1",
@@ -35,7 +27,7 @@
       "5:analogy:4",
       "6:analogy:2"
     ],
-    "analogy5": [
+    "HE5": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:1",
@@ -43,7 +35,7 @@
       "5:analogy:1",
       "6:analogy:2"
     ],
-    "analogy6": [
+    "HE6": [
       "1:analogy:1",
       "2:analogy:1",
       "3:analogy:2",
@@ -51,7 +43,7 @@
       "5:analogy:2",
       "6:analogy:4"
     ],
-    "analogy7": [
+    "HE7": [
       "1:analogy:2",
       "2:analogy:1",
       "3:analogy:3",
@@ -59,7 +51,7 @@
       "5:analogy:2",
       "6:analogy:4"
     ],
-    "analogy8": [
+    "HE8": [
       "1:analogy:1",
       "2:analogy:1",
       "3:analogy:3",
@@ -67,7 +59,7 @@
       "5:analogy:3",
       "6:analogy:2"
     ],
-    "analogy9": [
+    "HE9": [
       "1:analogy:4",
       "2:analogy:4",
       "3:analogy:2",
@@ -75,7 +67,7 @@
       "5:analogy:1",
       "6:analogy:1"
     ],
-    "analogy10": [
+    "HE10": [
       "1:analogy:2",
       "2:analogy:3",
       "3:analogy:3",
@@ -83,7 +75,7 @@
       "5:analogy:2",
       "6:analogy:2"
     ],
-    "analogy11": [
+    "HE11": [
       "1:analogy:2",
       "2:analogy:2",
       "3:analogy:1",
@@ -91,7 +83,7 @@
       "5:analogy:4",
       "6:analogy:3"
     ],
-    "analogy12": [
+    "HE12": [
       "1:analogy:4",
       "2:analogy:4",
       "3:analogy:3",
@@ -99,7 +91,7 @@
       "5:analogy:3",
       "6:analogy:2"
     ],
-    "analogy13": [
+    "HE13": [
       "1:analogy:2",
       "2:analogy:1",
       "3:analogy:1",
@@ -107,7 +99,7 @@
       "5:analogy:4",
       "6:analogy:3"
     ],
-    "analogy14": [
+    "HE14": [
       "1:analogy:1",
       "2:analogy:2",
       "3:analogy:2",
@@ -115,7 +107,7 @@
       "5:analogy:4",
       "6:analogy:1"
     ],
-    "analogy15": [
+    "HE15": [
       "1:analogy:2",
       "2:analogy:2",
       "3:analogy:4",
@@ -123,7 +115,7 @@
       "5:analogy:2",
       "6:analogy:4"
     ],
-    "analogy16": [
+    "HE16": [
       "1:analogy:4",
       "2:analogy:2",
       "3:analogy:3",
@@ -131,7 +123,7 @@
       "5:analogy:1",
       "6:analogy:3"
     ],
-    "analogy17": [
+    "HE17": [
       "1:analogy:1",
       "2:analogy:4",
       "3:analogy:3",
@@ -139,7 +131,7 @@
       "5:analogy:2",
       "6:analogy:2"
     ],
-    "analogy18": [
+    "HE18": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:1",
@@ -147,7 +139,7 @@
       "5:analogy:2",
       "6:analogy:1"
     ],
-    "analogy19": [
+    "HE19": [
       "1:analogy:1",
       "2:analogy:2",
       "3:analogy:3",
@@ -155,7 +147,7 @@
       "5:analogy:4",
       "6:analogy:3"
     ],
-    "analogy20": [
+    "HE20": [
       "1:analogy:1",
       "2:analogy:1",
       "3:analogy:3",
@@ -163,7 +155,7 @@
       "5:analogy:1",
       "6:analogy:4"
     ],
-    "analogy21": [
+    "HE21": [
       "1:analogy:4",
       "2:analogy:3",
       "3:analogy:3",
@@ -171,7 +163,7 @@
       "5:analogy:4",
       "6:analogy:2"
     ],
-    "analogy22": [
+    "HE22": [
       "1:analogy:2",
       "2:analogy:4",
       "3:analogy:4",
@@ -179,7 +171,7 @@
       "5:analogy:4",
       "6:analogy:4"
     ],
-    "analogy23": [
+    "HE23": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:2",
@@ -187,7 +179,7 @@
       "5:analogy:1",
       "6:analogy:3"
     ],
-    "analogy24": [
+    "HE24": [
       "1:analogy:3",
       "2:analogy:4",
       "3:analogy:1",
@@ -195,7 +187,7 @@
       "5:analogy:4",
       "6:analogy:3"
     ],
-    "analogy25": [
+    "HE25": [
       "1:analogy:1",
       "2:analogy:2",
       "3:analogy:2",
@@ -203,7 +195,7 @@
       "5:analogy:3",
       "6:analogy:4"
     ],
-    "analogy26": [
+    "HE26": [
       "1:analogy:2",
       "2:analogy:3",
       "3:analogy:4",
@@ -211,7 +203,7 @@
       "5:analogy:1",
       "6:analogy:1"
     ],
-    "analogy27": [
+    "HE27": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:4",
@@ -219,7 +211,7 @@
       "5:analogy:2",
       "6:analogy:1"
     ],
-    "analogy28": [
+    "HE28": [
       "1:analogy:3",
       "2:analogy:1",
       "3:analogy:4",
@@ -227,7 +219,7 @@
       "5:analogy:4",
       "6:analogy:4"
     ],
-    "analogy29": [
+    "HE29": [
       "1:analogy:4",
       "2:analogy:2",
       "3:analogy:2",
@@ -235,7 +227,7 @@
       "5:analogy:2",
       "6:analogy:4"
     ],
-    "analogy30": [
+    "HE30": [
       "1:analogy:1",
       "2:analogy:4",
       "3:analogy:2",
@@ -243,7 +235,7 @@
       "5:analogy:1",
       "6:analogy:4"
     ],
-    "analogy31": [
+    "HE31": [
       "1:analogy:3",
       "2:analogy:4",
       "3:analogy:3",
@@ -251,7 +243,7 @@
       "5:analogy:2",
       "6:analogy:1"
     ],
-    "analogy32": [
+    "HE32": [
       "1:analogy:2",
       "2:analogy:4",
       "3:analogy:3",
@@ -259,7 +251,7 @@
       "5:analogy:2",
       "6:analogy:3"
     ],
-    "analogy33": [
+    "HE33": [
       "1:analogy:4",
       "2:analogy:2",
       "3:analogy:3",
@@ -267,7 +259,7 @@
       "5:analogy:4",
       "6:analogy:3"
     ],
-    "analogy34": [
+    "HE34": [
       "1:analogy:2",
       "2:analogy:3",
       "3:analogy:4",
@@ -275,7 +267,7 @@
       "5:analogy:1",
       "6:analogy:3"
     ],
-    "analogy35": [
+    "HE35": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:2",
@@ -283,15 +275,15 @@
       "5:analogy:3",
       "6:analogy:2"
     ],
-    "analogy36": [
-      "1:analogy:3",
-      "2:analogy:1",
+    "HE36": [
+      "1:analogy:1",
+      "2:analogy:3",
       "3:analogy:4",
       "4:analogy:2",
       "5:analogy:3",
       "6:analogy:1"
     ],
-    "analogy37": [
+    "HE37": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:1",
@@ -299,7 +291,7 @@
       "5:analogy:2",
       "6:analogy:2"
     ],
-    "analogy38": [
+    "HE38": [
       "1:analogy:2",
       "2:analogy:4",
       "3:analogy:4",
@@ -307,7 +299,7 @@
       "5:analogy:4",
       "6:analogy:4"
     ],
-    "analogy39": [
+    "HE39": [
       "1:analogy:2",
       "2:analogy:1",
       "3:analogy:4",
@@ -315,7 +307,7 @@
       "5:analogy:1",
       "6:analogy:3"
     ],
-    "analogy40": [
+    "HE40": [
       "1:analogy:1",
       "2:analogy:2",
       "3:analogy:1",
@@ -323,7 +315,7 @@
       "5:analogy:4",
       "6:analogy:4"
     ],
-    "analogy41": [
+    "HE41": [
       "1:analogy:3",
       "2:analogy:4",
       "3:analogy:1",
@@ -331,7 +323,7 @@
       "5:analogy:1",
       "6:analogy:4"
     ],
-    "analogy42": [
+    "HE42": [
       "1:analogy:1",
       "2:analogy:1",
       "3:analogy:2",
@@ -339,7 +331,7 @@
       "5:analogy:3",
       "6:analogy:4"
     ],
-    "analogy43": [
+    "HE43": [
       "1:analogy:2",
       "2:analogy:2",
       "3:analogy:3",
@@ -347,7 +339,7 @@
       "5:analogy:4",
       "6:analogy:3"
     ],
-    "analogy44": [
+    "HE44": [
       "1:analogy:3",
       "2:analogy:3",
       "3:analogy:1",
@@ -355,7 +347,7 @@
       "5:analogy:4",
       "6:analogy:4"
     ],
-    "analogy45": [
+    "HE45": [
       "1:analogy:1",
       "2:analogy:1",
       "3:analogy:2",
@@ -363,7 +355,7 @@
       "5:analogy:2",
       "6:analogy:3"
     ],
-    "analogy46": [
+    "HE46": [
       "1:analogy:2",
       "2:analogy:1",
       "3:analogy:1",
@@ -371,7 +363,7 @@
       "5:analogy:3",
       "6:analogy:4"
     ],
-    "analogy47": [
+    "HE47": [
       "1:analogy:2",
       "2:analogy:2",
       "3:analogy:2",
@@ -379,7 +371,7 @@
       "5:analogy:3",
       "6:analogy:4"
     ],
-    "analogy48": [
+    "HE48": [
       "1:analogy:1",
       "2:analogy:2",
       "3:analogy:2",
@@ -387,7 +379,7 @@
       "5:analogy:4",
       "6:analogy:4"
     ],
-    "analogy49": [
+    "HE49": [
       "1:analogy:1",
       "2:analogy:3",
       "3:analogy:1",
@@ -395,7 +387,7 @@
       "5:analogy:1",
       "6:analogy:2"
     ],
-    "analogy50": [
+    "HE50": [
       "1:analogy:2",
       "2:analogy:1",
       "3:analogy:3",
