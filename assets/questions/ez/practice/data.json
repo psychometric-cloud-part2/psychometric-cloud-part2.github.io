@@ -272,66 +272,6 @@
       "20:geo:1",
       "21:geo:3"
     ],
-    "math12": [
-      "1:chart:4",
-      "2:chart:4",
-      "3:chart:1",
-      "4:chart:1"
-    ],
-    "math13": [
-      "1:chart:4",
-      "2:chart:2",
-      "3:chart:3",
-      "4:chart:3"
-    ],
-    "math14": [
-      "1:chart:3",
-      "2:chart:2",
-      "3:chart:1",
-      "4:chart:1"
-    ],
-    "math15": [
-      "1:chart:2",
-      "2:chart:4",
-      "3:chart:2",
-      "4:chart:4"
-    ],
-    "math16": [
-      "1:chart:4",
-      "2:chart:3",
-      "3:chart:3",
-      "4:chart:2"
-    ],
-    "math17": [
-      "1:chart:4",
-      "2:chart:4",
-      "3:chart:2",
-      "4:chart:1"
-    ],
-    "math18": [
-      "1:chart:3",
-      "2:chart:2",
-      "3:chart:2",
-      "4:chart:1",
-      "5:chart:4",
-      "6:chart:4"
-    ],
-    "math19": [
-      "1:chart:2",
-      "2:chart:3",
-      "3:chart:2",
-      "4:chart:3",
-      "5:chart:2",
-      "6:chart:3"
-    ],
-    "math20": [
-      "1:chart:2",
-      "2:chart:3",
-      "3:chart:4",
-      "4:chart:4",
-      "5:chart:2",
-      "6:chart:3"
-    ],
     "math21": [
       "1:prb:3",
       "2:alg:3",
