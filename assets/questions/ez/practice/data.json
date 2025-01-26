@@ -290,9 +290,73 @@
       "19:geo:3",
       "20:alg:4"
     ],
-    "HE1": [],
-    "HE2": [],
-    "EN1": [],
-    "EN2": []
+    "HE1": [
+      "1:analogy:1",
+      "2:analogy:2",
+      "3:analogy:1",
+      "4:analogy:4",
+      "5:analogy:1",
+      "6:analogy:1",
+      "7:analogy:2",
+      "8:analogy:4",
+      "9:analogy:2",
+      "10:analogy:4",
+      "11:analogy:3",
+      "12:analogy:3",
+      "13:analogy:3",
+      "14:analogy:4",
+      "15:analogy:3",
+      "16:analogy:2",
+      "17:analogy:1",
+      "18:analogy:3",
+      "19:analogy:4",
+      "20:analogy:2"
+    ],
+    "HE2": [
+      "1:reading:1",
+      "2:reading:3",
+      "3:reading:3",
+      "4:reading:1",
+      "5:reading:3",
+      "6:reading:4"
+    ],
+    "HE3": [
+      "1:reading:2",
+      "2:reading:3",
+      "3:reading:3",
+      "4:reading:4",
+      "5:reading:1",
+      "6:reading:3"
+    ],
+    "HE4": [
+      "1:reading:4",
+      "2:reading:2",
+      "3:reading:2",
+      "4:reading:3",
+      "5:reading:1",
+      "6:reading:3"
+    ],
+    "HE5": [
+      "1:deduce:3",
+      "2:deduce:2",
+      "3:deduce:3",
+      "4:deduce:4",
+      "5:deduce:1",
+      "6:deduce:3",
+      "7:deduce:2",
+      "8:deduce:1",
+      "9:deduce:4",
+      "10:deduce:3",
+      "11:deduce:1",
+      "12:deduce:4",
+      "13:deduce:4",
+      "14:deduce:4",
+      "15:deduce:2",
+      "16:deduce:3",
+      "17:deduce:1",
+      "18:deduce:4",
+      "19:deduce:3",
+      "20:deduce:2"
+    ]
   }
 }
