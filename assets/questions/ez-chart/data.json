@@ -1,0 +1,47 @@
+{
+  "publisher": "ez-chart",
+  "year": "ez-chart",
+  "season": "",
+  "questions": {
+    "math1": [
+      "1:chart:4",
+      "2:chart:4",
+      "3:chart:1",
+      "4:chart:1"
+    ],
+    "math2": [
+      "5:chart:4",
+      "6:chart:2",
+      "7:chart:3",
+      "8:chart:3"
+    ],
+    "math3": [
+      "9:chart:3",
+      "10:chart:2",
+      "11:chart:1",
+      "12:chart:1"
+    ],
+    "math4": [
+      "13:chart:2",
+      "14:chart:4",
+      "15:chart:2",
+      "16:chart:4"
+    ],
+    "math5": [
+      "17:chart:4",
+      "18:chart:3",
+      "19:chart:3",
+      "20:chart:2"
+    ],
+    "math6": [
+      "21:chart:4",
+      "22:chart:4",
+      "23:chart:2",
+      "24:chart:1"
+    ],
+    "HE1": [],
+    "HE2": [],
+    "EN1": [],
+    "EN2": []
+  }
+}
